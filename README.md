@@ -10,4 +10,4 @@ The project asks students to create a webpage that:
 - allows 'superusers' (admins) to manage those comments;
 
 
-Please check the README.doc file for details.
+Check README.pdf for details and results.
